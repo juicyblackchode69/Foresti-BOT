@@ -26,6 +26,8 @@ Telegram Bot для загрузки фото/видео из социальны
  
  - [PythonAnywhere](https://www.pythonanywhere.com/): рекомендуется, если вы хотите запустить на сервере
  
+ [![PythonAnywhere](https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg)](https://www.pythonanywhere.com/)
+ 
  Установка библиотек
  
   `pip3 install -r requirements.txt`
