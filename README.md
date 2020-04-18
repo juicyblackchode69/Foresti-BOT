@@ -40,7 +40,8 @@
 
 ## Документация:
  
- `pyTelegramBotAPI` Документация находится на сайте [PyPi](https://github.com/eternnoir/pyTelegramBotAPI/)
+ `pyTelegramBotAPI` [Документация](https://github.com/eternnoir/pyTelegramBotAPI/)
+ `python-telegram-bot`[Документация](https://github.com/python-telegram-bot/python-telegram-bot)
  
 ## Конфигурация:
 
