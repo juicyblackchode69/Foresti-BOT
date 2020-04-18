@@ -1,0 +1,12 @@
+pyTelegramBotAPI
+python-telegram-bot
+youtube_dl
+pytube
+instaloader
+requests
+yaml
+bs4
+pyowm
+coloram
+re
+COVID19Py
