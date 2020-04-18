@@ -4,10 +4,38 @@ Telegram Bot для загрузки фото/видео из социальны
 
 ## Возможности:
 
-•	Загрузка фото/видео из социальных сетей
+ - `Загрузка фото/видео из социальных сетей`
 
-•	Новости
+ - `Новости`
 
-•	Погода
+ - `Погода`
 
-•	Игры
+ - `Игры`
+
+## Установка и настройка:
+
+Требования
+
+Они должны быть доступны в вашем PATH:
+
+ - [Python 3.8+](https://www.python.org/)
+ 
+ - [FFmpeg 4.0+](https://ffmpeg.org/download.html)
+ 
+ - [PythonAnywhere](https://www.pythonanywhere.com/): рекомендуется, если вы хотите запустить на сервере
+ 
+## Документация:
+ 
+ `pyTelegramBotAPI` Документация находится на сайте [PyPi](https://pypi.org/project/pyTelegramBotAPI/)
+## Установка и настройка:
+ 
+тановка библиотек
+ 
+  `pip3 install -r requirements.txt`
+  
+  или же (если вдруг не сработало)
+  
+  `python -m pip install -r requirements.txt`
+
+Настроит бот
+ 
