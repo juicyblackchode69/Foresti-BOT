@@ -1,3 +1,5 @@
+![](https://i.imgur.com/deS1nDF.jpg)
+
 # Foresti [BOT]
 Telegram Bot для загрузки фото/видео из социальных сетей а также много других функции.
 На телеграмме можно найти как [Foresti [BOT]](https://t.me/foresti_bot)
