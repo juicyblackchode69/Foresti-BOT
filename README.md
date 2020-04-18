@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/deS1nDF.jpg)
 
-# Foresti [BOT]
-Telegram Bot для загрузки фото/видео из социальных сетей а также много других функции.
+# <p align="center">Foresti [BOT]
+<p align="center">Telegram Bot для загрузки фото/видео из социальных сетей а также много других функции.
 На телеграмме можно найти как [Foresti [BOT]](https://t.me/foresti_bot)
 
 ## Возможности:
@@ -42,7 +42,7 @@ Telegram Bot для загрузки фото/видео из социальны
 
 ## Документация:
  
- `pyTelegramBotAPI` Документация находится на сайте [PyPi](https://pypi.org/project/pyTelegramBotAPI/)
+ `pyTelegramBotAPI` Документация находится на сайте [PyPi](https://github.com/eternnoir/pyTelegramBotAPI/)
  
 ## Конфигурация:
 
