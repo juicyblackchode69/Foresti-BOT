@@ -24,7 +24,6 @@ pyTelegramBotAPI Документация находится на сайте Pyp
 Установка бота на хостинг + его настройка
 Конфигурация
 Предпочтительной версией является использование configbot.py файла, поскольку это упрощает просмотр всех ваших настроек, сгруппированных вместе.
-
 	TOKEN  = ‘1234567890: AAA-AaA1aaa1AAaaAa1a1AAAAA-a1aa1-Aa’
 	TOKEN2 = ‘1234567890: AAA-AaA1aaa1AAaaAa1a1AAAAA-a1aa1-Aa’
 	TOKEN3 = ‘1234567890: AAA-AaA1aaa1AAaaAa1a1AAAAA-a1aa1-Aa’
